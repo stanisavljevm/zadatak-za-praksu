@@ -1,0 +1,11 @@
+{
+	"name": "basketball-tournament",
+	"version": "1.0.0",
+	"description": "JavaScript program za simulaciju košarkaškog turnira na Olimpijskim igrama.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "",
+	"license": "ISC"
+}
